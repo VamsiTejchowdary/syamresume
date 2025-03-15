@@ -3,6 +3,16 @@ import React from "react";
 const Roadmap = () => {
   const sections = [
     {
+      title: "New to Uexpertly",
+      content: [
+        { label: "Mockspeak", desc: "Interview practice, submissions" },
+        { label: "Paths", desc: "AI/ML Data Scientist, Data Engineer, Data Analyst, Full Stack" },
+      
+    
+      ]
+
+    },
+    {
       title: "Programming Languages",
       content: [
         { label: "Python", desc: "NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch" },
