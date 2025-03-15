@@ -15,7 +15,7 @@ const Roadmap = () => {
     {
       title: "Programming Languages",
       content: [
-        { label: "Python", desc: "NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch" },
+        { label: "Python3", desc: "NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch" },
         { label: "Java", desc: "Apache Spark, Hadoop, DeepLearning4J" },
         { label: "SQL", desc: "PostgreSQL, MySQL" },
         { label: "Additional", desc: "C++, R, Scala" }
