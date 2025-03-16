@@ -3,9 +3,18 @@ import React from "react";
 const Roadmap = () => {
   const sections = [
     {
+      title: "AI/ML Data Scientist Roadmap",
+      content: [
+        { label: "Your comprehensive guide to becoming a data science professional" },
+      
+    
+      ]
+
+    },
+    {
       title: "Programming Languages",
       content: [
-        { label: "Python", desc: "NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch" },
+        { label: "Python3", desc: "NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch" },
         { label: "Java", desc: "Apache Spark, Hadoop, DeepLearning4J" },
         { label: "SQL", desc: "PostgreSQL, MySQL" },
         { label: "Additional", desc: "C++, R, Scala" }
@@ -64,10 +73,10 @@ const Roadmap = () => {
       <div className="max-w-6xl mx-auto bg-white shadow-xl rounded-2xl overflow-hidden">
         <div className="bg-gradient-to-r from-blue-600 to-indigo-600 py-8 px-6">
           <h1 className="text-3xl md:text-4xl font-bold text-center text-white">
-            AI/ML Data Scientist Roadmap
+          New to Uexpertly
           </h1>
           <p className="text-blue-100 text-center mt-2">
-            Your comprehensive guide to becoming a data science professional
+            Here is your guide
           </p>
         </div>
         
