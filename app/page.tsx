@@ -3,10 +3,9 @@ import React from "react";
 const Roadmap = () => {
   const sections = [
     {
-      title: "New to Uexpertly",
+      title: "AI/ML Data Scientist Roadmap",
       content: [
-        { label: "Mockspeak", desc: "Interview practice, submissions" },
-        { label: "Paths", desc: "AI/ML Data Scientist, Data Engineer, Data Analyst, Full Stack" },
+        { label: "Your comprehensive guide to becoming a data science professional" },
       
     
       ]
@@ -74,10 +73,10 @@ const Roadmap = () => {
       <div className="max-w-6xl mx-auto bg-white shadow-xl rounded-2xl overflow-hidden">
         <div className="bg-gradient-to-r from-blue-600 to-indigo-600 py-8 px-6">
           <h1 className="text-3xl md:text-4xl font-bold text-center text-white">
-            AI/ML Data Scientist Roadmap
+          New to Uexpertly
           </h1>
           <p className="text-blue-100 text-center mt-2">
-            Your comprehensive guide to becoming a data science professional
+            Here is your guide
           </p>
         </div>
         
